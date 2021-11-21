@@ -48,7 +48,7 @@ export default function Register() {
         <label>
           Email
           <input
-            type='text'
+            type='email'
             name='email'
             onChange={onChangeForm}
             value={email}
